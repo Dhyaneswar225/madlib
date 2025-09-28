@@ -70,13 +70,6 @@ Below are screenshots of the MadLib Generator's user interface:
 ## OUTPUT
 ![alt text](image-7.png)
 ![alt text](image-8.png)
-Below are examples of the generated story output as seen in the app:
-
-![Generated Story Example 1](image-3.png)
-*Example of a completed MadLib story displayed in the Streamlit app.*
-
-![Generated Story Example 2](image-4.png)
-*Another view of a completed story with user inputs.*
 
 ## CUSTOMIZATION
 
