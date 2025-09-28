@@ -41,6 +41,11 @@ To run the MadLib Generator, ensure you have the following:
    ├── saved_stories/
    │   └── (generated files, e.g., fantasy_adventure_20250928_124200.txt)
    ├── main.py
+   ├── image.png
+   ├── image-1.png
+   ├── image-2.png
+   ├── image-3.png
+   ├── image-4.png
    └── README.md
    ```
 
@@ -56,6 +61,22 @@ To run the MadLib Generator, ensure you have the following:
    - Enter words for each placeholder prompted.
    - Click **✨ Generate Story** to view your completed story.
    - Click **💾 Save Story** to save the story to the `saved_stories` directory.
+
+## UI SCREENSHOTS
+
+Below are screenshots of the MadLib Generator's user interface:
+![alt text](image-5.png)
+![alt text](image-6.png)
+## OUTPUT
+![alt text](image-7.png)
+![alt text](image-8.png)
+Below are examples of the generated story output as seen in the app:
+
+![Generated Story Example 1](image-3.png)
+*Example of a completed MadLib story displayed in the Streamlit app.*
+
+![Generated Story Example 2](image-4.png)
+*Another view of a completed story with user inputs.*
 
 ## CUSTOMIZATION
 
